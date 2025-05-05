@@ -3,13 +3,13 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexandrepimentelrj/)](https://www.linkedin.com/in/alexandrepimentelrj/)
 
-[![Gmail Badge](https://img.shields.io/badge/-acpimentel@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:acpimentel@gmail.com)](mailto:acpimentel@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-kelvin.c.silva@aluno.senai.br-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kelvin.c.silva@aluno.senai.br)](mailto:kelvin.c.silva@aluno.senai.br)
 
 
 ## Meu nome é Alexandre
-(Java | Spring Boot | React JS | Typescript | Javascript | HTML | CSS ) 🚀
-- 👩‍💻 Desenvolvedor de Software
-- 🎓 Graduado em Tecnologia de Sistemas de Computação pela UFF
+(Python | React | HTML | CSS ) 🚀
+
+ - 👩‍💻 Estudante de desenvolvimento de sistemas
 
 <div align="left">
   
