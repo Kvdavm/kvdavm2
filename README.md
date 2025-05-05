@@ -1,12 +1,10 @@
 
 <h1>Olá, seja bem-vindo(a)! 👋</h1>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexandrepimentelrj/)](https://www.linkedin.com/in/alexandrepimentelrj/)
-
 [![Gmail Badge](https://img.shields.io/badge/-kelvin.c.silva@aluno.senai.br-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kelvin.c.silva@aluno.senai.br)](mailto:kelvin.c.silva@aluno.senai.br)
 
 
-## Meu nome é Alexandre
+## Meu nome é Kelvin
 (Python | React | HTML | CSS ) 🚀
 
  - 👩‍💻 Estudante de desenvolvimento de sistemas
